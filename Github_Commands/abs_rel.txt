@@ -1,0 +1,1 @@
+the realtive path is the current directory where one directory is moved from one place to another whilst the absolute path is complete path to a file or directory in a file system that specifies its location starting from the root directory.
