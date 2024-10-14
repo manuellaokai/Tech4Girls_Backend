@@ -1,0 +1,2 @@
+Open new terminal in the parent directory, use the git branch command with the branch name to crerate a new branch and switch into it, checkout of the branch by using the git checkout command with the branch name, enter git add., git commit -m "commit message", then you push or publish the branch using git push origin the branch name.
+ 
