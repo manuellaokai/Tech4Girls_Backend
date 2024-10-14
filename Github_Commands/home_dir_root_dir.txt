@@ -1,0 +1,1 @@
+The home directory stores every directory for the user whilst the root directory serves as the starting point from which all other directories and files branch out.
