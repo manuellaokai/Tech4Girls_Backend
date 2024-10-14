@@ -1,0 +1,1 @@
+1. bash rc  2. cd / 3. cd bin 4. cd etc 5. cd var 6. cd usr 7. cd tmp
