@@ -1,0 +1,1 @@
+the commands i used was mkdir Backend_Projects to create the directory and its subdirectories ProjectA and ProjectB then i used the ls command to display the content to make sure it was created.
