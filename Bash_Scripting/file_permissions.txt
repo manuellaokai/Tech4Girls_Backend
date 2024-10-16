@@ -1,0 +1,4 @@
+the first (-) is a regular file. 
+(rw-) indicates that the owner of the file has the read (r) and write (w) permissions but not the execute (-) permissions.
+(r--) indicates that the group of the file has the read (r) permissions but not write (-) and execute (-) permissions.
+(r--) shows that the others associated with the file also have the read (r) permissions but not the write (-) and execute (-) permissions.
