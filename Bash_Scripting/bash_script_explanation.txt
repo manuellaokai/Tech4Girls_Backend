@@ -1,0 +1,9 @@
+A Bash script is/are series of commands saved in a file and can be executed to achieve a desired result. 
+It is created using these steps: 
+1. Create a script file
+2. Open editor in thes script file 
+3. Key in #!/bin/bash, then # this script just echoes Tech4Girls, then lastly, echo "Hello, Tech4Girls"
+4. Key in the permission command: ls -l and the name of the scrpit file. eg; naa.sh
+5. Key in chomod +x and the name of the script file. eg; naa.sh
+6. Key in the ls command to display the contents of the script file.
+7. Execute the script file using, ./(name of the script file). eg; ./naa.sh 
