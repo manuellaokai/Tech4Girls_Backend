@@ -1,0 +1,69 @@
+Question 1:
+i. int:
+Represents integer values (whole numbers).
+Example: 
+a = 10
+
+float:
+Represents floating-point numbers (numbers with a decimal point).
+Example
+b = 3.14
+
+str:
+Represents strings (text).
+Example:
+name = "Alice"
+
+list:
+Represents an ordered, mutable collection of items.
+Example:
+fruits = ["apple", "banana", "cherry"]
+
+tuple:
+Represents an ordered, immutable collection of items.
+Example:
+coordinates = (10, 20)
+
+set:
+Represents an unordered collection of unique items.
+Example:
+unique_numbers = {1, 2, 3, 3, 4}  # results in {1, 2, 3, 4}
+
+ii. upper()
+Converts all characters to uppercase.
+Example:
+greeting = "hello"
+print(greeting.upper()) 
+
+lower()
+Converts all characters to lowercase.
+Example:
+greeting = "HELLO"
+print(greeting.lower())  
+
+replace()
+Replaces a substring with another substring.
+Example:
+sentence = "Hello World"
+print(sentence.replace("World", "Python")) 
+
+split()
+Splits a string into a list.
+Example:
+sentence = "Python is great"
+print(sentence.split())  
+
+join()
+Joins elements of a list into a string.
+Example:
+words = ["Python", "is", "fun"]
+print(" ".join(words))  
+
+find()
+Returns the index of the first occurrence of a substring.
+Example:
+sentence = "Find the substring."
+print(sentence.find("the")) 
+
+
+
