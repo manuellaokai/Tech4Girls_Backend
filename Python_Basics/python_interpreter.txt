@@ -1,0 +1,29 @@
+#!/bin/bash
+Steps:
+1. Open a Terminal or Command Prompt:
+On Windows: Press `Win + R`, type `cmd`, and hit `Enter`.
+On macOS: Press `Cmd + Space`, type `Terminal`, and hit `Enter`.
+On Linux: Use the terminal application available in your system.
+
+2. Start the Python Interpreter:
+Type `python` or `python3` (depending on your installation) and press `Enter`.
+If Python is correctly installed, you should see a prompt that looks like this:
+     ```
+     Python 3.x.x (default, ...) 
+     [GCC ...] on linux
+     Type "help", "copyright", "credits" or "license" for more information.
+     >>>
+     ```
+
+3. Using the Interpreter:
+ At the `>>>` prompt, you can type Python commands directly.
+
+Example: Adding Two Numbers
+
+1. At the `>>>` prompt, type:
+   ```python
+   a = 5
+   b = 10
+   sum = a + b
+   print(sum)
+
